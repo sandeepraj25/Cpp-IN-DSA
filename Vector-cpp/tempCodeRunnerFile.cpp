@@ -1,0 +1,1 @@
+ vnew.insert(vnew.begin()+ 1,50);
